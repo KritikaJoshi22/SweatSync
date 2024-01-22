@@ -2,6 +2,10 @@
 
 SweatSync: Empowering Fitness Achievements through Token Rewards and Community Engagement
 
+### Team Name
+
+CryptoCrafters
+
 ### Project abstract
 
 SweatSync is a groundbreaking fitness management platform that incentivizes users to achieve their fitness goals through a token reward system, monthly streaks, and community-driven features. Users can also access personalized workout plans created by fitness trainers, share their fitness journey on a social-media-like platform, and earn rare NFTs for completing specific tasks. For those seeking additional motivation, a staking mechanism allows users to stake tokens or NFTs, transferring them upon successful goal completion.
