@@ -75,9 +75,10 @@ _Staking Mechanism:_
 
 ### Milestone Breakdown
 
-1. **_Project Kick-off (Days 1-2)_:** _Team formation and project ideation_.
-2. **_Design Phase (Days 3-4)_:** _Create wireframes and finalize design concepts_.
-3. **_Development Sprint (Days 5-6)_:** _Implement core functionalities_.
+1. **_Project Kick-off (Days 1)_:** _Work on the project workflow and smart contract development_.
+2. **_Design Phase (Days 2-3)_:** _smart contractdevelopment_.
+3. **_Development Sprint (Days 3-4)_:** _Finalize design concepts and create UI_.
+4. **_Development Sprint (Days 5-6)_:** _Implement core functionalities_.
 
 # Team Details section
 
@@ -99,14 +100,16 @@ _Staking Mechanism:_
 
 _Potential Future Features or Enhancements:_
 
-1. Integration of a fitness tips bot.
-2. Expansion of the trainer marketplace with more trainers and diverse workout plans.
-3. Integration of additional gamification elements to further engage users.
+1. Integration of apis which can track steps taken or calories burn(We are making the app in react.js so it's currently not possible for us).
+2. Integration of a fitness tips bot.
+3. Making the dapp crosschain.
+4. Integration of additional gamification elements to further engage users.
 
 _Scaling Strategies:_
 
 1. Implementing load balancing and optimizing database queries to handle increased user activity.
 2. Exploring decentralized technologies for enhanced scalability and user data security.
+3. Implement ZK-rollups to increase the scalability and reduce the gas fee.
 
 _One-line Summary:_
 SweatSync transforms fitness journeys by incentivizing users through a token reward system, NFT incentives, and a vibrant community-driven platform, fostering a healthier and more engaged user community.
